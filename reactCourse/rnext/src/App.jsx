@@ -1,5 +1,5 @@
 import Gallery from "./components/Gallery";
-//1.4
+//master
 function App() {
     return (
         <div>
